@@ -8,4 +8,5 @@ public class Test2 {
     int a=5;
     int b=2;
     int c=21;
+    int d=22;
 }

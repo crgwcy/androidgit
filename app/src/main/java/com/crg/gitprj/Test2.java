@@ -5,5 +5,5 @@ package com.crg.gitprj;
  */
 
 public class Test2 {
-    int a=4;
+    int a=5;
 }

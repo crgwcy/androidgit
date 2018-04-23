@@ -16,6 +16,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onResume() {
         super.onResume();
         Log.e("HELLO","TEST");
+
+
     }
 
     @Override

@@ -79,6 +79,7 @@ public class MainActivity extends AppCompatActivity {
                /* .addTab(component)*/
                 .addTab(util)
                 .addTab(lab);
+                //1
     }
 
 
